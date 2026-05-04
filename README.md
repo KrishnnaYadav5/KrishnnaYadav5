@@ -33,27 +33,14 @@
 I'm a passionate **Full Stack Developer** and **UI/UX Designer** transitioning from a commerce background to technology. Currently pursuing my **MCA** at NMITD, University of Mumbai, with hands-on experience in building scalable web applications using modern frameworks and technologies.
 
 ```
-/* If You Can Dream It, So You Can Do It. So Never Give Up.....  */
-
-> Development.getName( );
-Krishna Yadav
-
- // Education
-
-> Education.status( );      
-MCA 2026 (NMITD)
-
-// Skills
-> Skills.list( );
-- WebDevelopment (HTML, CSS, Javascript)
-- Database (MySQL)
-- Power Bi
-- git & git hub
-- Java 
-- python
-
-> System.out.println("Let's build something remarkable!");
-Let's build something remarkable!
+📚  MCA Student @ NMITD, University of Mumbai (2024 – 2026)
+💼  Former Intern @ Digital Bros Ltd (UK) | Edunet Foundation (IN)
+🔭  Currently Building: Spring Boot Microservices & Angular Applications
+🌱  Exploring: AI/ML · System Design · Advanced Data Analytics
+🎨  Passionate about UI/UX Design with Figma & Adobe Suite
+📍  Based in Mumbai, India
+⚡  Fun Fact: Transitioned from B.Com to Full Stack Development!
+```
 
 ---
 
