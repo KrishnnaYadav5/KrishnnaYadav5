@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=200&section=header&text=Krishna%20Yadav&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Krishna%20Yadav&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student&descAlign=50&descAlignY=60" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 ---
