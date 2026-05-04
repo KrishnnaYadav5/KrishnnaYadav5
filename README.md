@@ -35,45 +35,25 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** transitioning f
 ```
 If You Can Dream It, So You Can Do It. So Never Give Up
 
-
-
 > Development.getName( );
-
 Krishna Yadav
 
-
-
- // Education
-
+// Education
 > Education.status( );      
-
 MCA 2026 (NMITD)
 
-
-
 // Skills
-
 > Skills.list( );
-
-
-
 - WebDevelopment (HTML, CSS, Javascript)
-
 - Database (MySQL)
-
 - Power Bi
-
 - git & git hub
-
 - Java 
-
 - python
 
-
-
 > System.out.println("Let's build something remarkable!");
-
 Let's build something remarkable!
+
 ```
 
 ---
