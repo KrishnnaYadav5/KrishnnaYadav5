@@ -94,44 +94,7 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** transitioning f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" title="Adobe Illustrator" />
 </div>
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00C853/KrishnnaYadav5" alt="Krishna's GitHub Contribution Chart" width="100%" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrishnnaYadav5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=00C853&icon_color=00C853" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnnaYadav5&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=00C853" />
-</div>
-
----
-
-## 🎯 Key Strengths
-
-✅ **Full Stack Development** - Building end-to-end web applications with modern tech stacks  
-✅ **Microservices Architecture** - Designing scalable and maintainable backend systems  
-✅ **UI/UX Design** - Creating intuitive and visually appealing user interfaces  
-✅ **Database Management** - Proficient with SQL and NoSQL databases  
-✅ **Problem Solving** - Strong analytical and debugging skills  
-✅ **Collaboration** - Experience working in agile teams and open-source projects  
-
----
-
-## 🚀 Let's Connect!
-
-I'm always interested in collaborating on exciting projects, discussing technology, or connecting with fellow developers. Feel free to reach out!
-
-<div align="center">
-  <a href="mailto:Krishnna.yadav55@gmail.com">
-    <img src="https://img.shields.io/badge/Get%20In%20Touch-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/krishnayadav5/">
-    <img src="https://img.shields.io/badge/Connect%20On%20LinkedIn-0077B5?style=for-the-badge" />
-  </a>
-</div>
 
 ---
 
