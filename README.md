@@ -33,7 +33,7 @@
 I'm a passionate **Full Stack Developer** and **UI/UX Designer** transitioning from a commerce background to technology. Currently pursuing my **MCA** at NMITD, University of Mumbai, with hands-on experience in building scalable web applications using modern frameworks and technologies.
 
 ```
-/* If You Can Dream It, So You Can Do It. So Never Give Up.....  */
+If You Can Dream It, So You Can Do It. So Never Give Up
 
 
 
