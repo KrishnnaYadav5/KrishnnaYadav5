@@ -93,16 +93,3 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** transitioning f
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" title="Adobe Illustrator" />
 </div>
-
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <p><strong>⭐ If you find my work valuable, please consider starring my repositories!</strong></p>
-  <p><em>Thanks for visiting my profile. Let's build something amazing together! 🚀</em></p>
-</div>
